@@ -7,7 +7,4 @@ In this project for our SC2002 Module, we look at how to develop a CAMS manageme
 
 # Mini-Project By:
 
-*  Yashver Shori
-*  Kyle Lim
-*  Yu Quan
-*  Nathaniel
+Yashver Shori, Kyle Lim, Yu Quan, Nathaniel 
